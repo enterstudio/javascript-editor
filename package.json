@@ -7,7 +7,7 @@
     "url": "git@github.com:maxogden/javascript-editor.git"
   },
   "dependencies": {
-    "extend": "1.1.3",
+    "extend": "2.0.2",
     "inherits": "1.0.0",
     "esprima": "git://github.com/ariya/esprima.git#harmony",
     "codemirror": "https://github.com/tmcw/CodeMirror/archive/module-export.tar.gz"
